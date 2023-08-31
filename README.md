@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amirtharaj</h1>
 <h3 align="center">A passionate to become a full stack developer</h3>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1K_kPxorwlm6LiODiEDcEj&ust=1693564258709000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCAkNLYhoEDFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirtharaj123&label=Profile%20views&color=0e75b6&style=flat" alt="amirtharaj123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirtharaj123" alt="amirtharaj123" /></a> </p>
