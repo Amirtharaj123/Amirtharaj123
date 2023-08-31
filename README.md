@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amirtharaj</h1>
 <h3 align="center">A passionate to become a full stack developer</h3>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F003%2F297%2F661%2Fsmall%2Fsoftware-development-concept-with-icon-set-with-big-word-free-vector.jpg&tbnid=z-ycg3tS4EvJdM&vet=12ahUKEwiGxcLC04aBAxUG5TgGHd8sA8sQMygcegUIARCWAQ..i&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fsoftware-development-icon&docid=cZP1Eag2_OjRXM&w=334&h=200&q=programming%20developer%20icon%20&hl=en-GB&ved=2ahUKEwiGxcLC04aBAxUG5TgGHd8sA8sQMygcegUIARCWAQ" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirtharaj123&label=Profile%20views&color=0e75b6&style=flat" alt="amirtharaj123" /> </p>
 
